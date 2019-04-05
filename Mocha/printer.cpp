@@ -59,5 +59,6 @@ int main()
             cout << t << endl;
             round--;
         }
-        return 0;
     }
+    return 0;
+}
